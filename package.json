@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "supabase": "^1.110.1"
+  },
+  "dependencies": {
+    "decay": "^1.0.12",
+    "deno": "^0.1.1"
+  }
+}
